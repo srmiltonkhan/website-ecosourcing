@@ -1,0 +1,3 @@
+1. Create robots.txt in main file
+2. Create sitemap.xml put in main file
+3. google console then add sitemap option

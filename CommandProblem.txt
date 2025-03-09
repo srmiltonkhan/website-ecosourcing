@@ -1,0 +1,12 @@
+Open PowerShell as Administrator:
+
+Press Windows + X and select Windows PowerShell (Admin).
+Change the execution policy:
+
+In the PowerShell window, run the following command to allow scripts to run:
+
+powershell
+Copy
+
+Run Command : Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+

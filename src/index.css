@@ -1,0 +1,28 @@
+:root {
+  --menu-color: #065c5c;
+  --menu-hover-color: #03b244;
+  --white-color: #fff;
+  --SectionPossitive: #f1f1f1;
+  --SectionNegative: #e2dede;
+  --footer-color: #0b2e33
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+table {
+  font-size: 14px;
+}
+th {
+  vertical-align: middle; /* Ensures vertical centering */
+  text-align: center !important; /* Optional: Center text horizontally */
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
