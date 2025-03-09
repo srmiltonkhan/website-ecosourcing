@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://admission.kyau.edu.bd/sitemap.xml
